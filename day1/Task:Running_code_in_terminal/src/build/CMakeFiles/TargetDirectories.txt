@@ -1,0 +1,3 @@
+/home/mina/Desktop/AUCRobotics_ROSCourse/day1/Task:Running_code_in_terminal/build/CMakeFiles/rebuild_cache.dir
+/home/mina/Desktop/AUCRobotics_ROSCourse/day1/Task:Running_code_in_terminal/build/CMakeFiles/nameCppCmake.dir
+/home/mina/Desktop/AUCRobotics_ROSCourse/day1/Task:Running_code_in_terminal/build/CMakeFiles/edit_cache.dir

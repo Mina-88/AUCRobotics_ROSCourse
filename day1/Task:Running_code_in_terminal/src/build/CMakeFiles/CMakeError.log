@@ -1,0 +1,68 @@
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: -std=c++
+Id flags:  
+
+The output was:
+1
+c++: error: unrecognized command line option ‘-std=c++’; did you mean ‘-std=c++03’?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: -std=c++
+Id flags: -c 
+
+The output was:
+1
+c++: error: unrecognized command line option ‘-std=c++’; did you mean ‘-std=c++03’?
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: -std=c++
+Id flags: --c++ 
+
+The output was:
+1
+c++: error: unrecognized command line option ‘-std=c++’; did you mean ‘-std=c++03’?
+c++: error: unrecognized command line option ‘--c++’
+
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" failed.
+Compiler: /usr/bin/c++ 
+Build flags: -std=c++
+Id flags: --ec++ 
+
+The output was:
+1
+c++: error: unrecognized command line option ‘-std=c++’; did you mean ‘-std=c++03’?
+c++: error: unrecognized command line option ‘--ec++’; did you mean ‘-Weffc++’?
+
+
+Detecting C [-std=c11] compiler features failed to compile with the following output:
+Change Dir: /home/mina/Desktop/AUCRobotics_ROSCourse/day1/Task:Running_code_in_terminal/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_e5f38/fast"
+/usr/bin/make -f CMakeFiles/cmTC_e5f38.dir/build.make CMakeFiles/cmTC_e5f38.dir/build
+make[1]: Entering directory '/home/mina/Desktop/AUCRobotics_ROSCourse/day1/Task:Running_code_in_terminal/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_e5f38.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/home/mina/Desktop/AUCRobotics_ROSCourse/day1/Task:Running_code_in_terminal/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_e5f38/fast' failed
+make: *** [cmTC_e5f38/fast] Error 2
+
+
+
+Detecting CXX [-std=c++1z] compiler features failed to compile with the following output:
+Change Dir: /home/mina/Desktop/AUCRobotics_ROSCourse/day1/Task:Running_code_in_terminal/build/CMakeFiles/CMakeTmp
+
+Run Build Command:"/usr/bin/make" "cmTC_c09c3/fast"
+/usr/bin/make -f CMakeFiles/cmTC_c09c3.dir/build.make CMakeFiles/cmTC_c09c3.dir/build
+make[1]: Entering directory '/home/mina/Desktop/AUCRobotics_ROSCourse/day1/Task:Running_code_in_terminal/build/CMakeFiles/CMakeTmp'
+CMakeFiles/cmTC_c09c3.dir/build.make:64: *** target pattern contains no '%'.  Stop.
+make[1]: Leaving directory '/home/mina/Desktop/AUCRobotics_ROSCourse/day1/Task:Running_code_in_terminal/build/CMakeFiles/CMakeTmp'
+Makefile:126: recipe for target 'cmTC_c09c3/fast' failed
+make: *** [cmTC_c09c3/fast] Error 2
+
+
+
