@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/mina/Desktop/AUCRobotics_ROSCourse/AUCRobotics_ROSCourse/day3/task2/devel -DCMAKE_INSTALL_PREFIX=/home/mina/Desktop/AUCRobotics_ROSCourse/AUCRobotics_ROSCourse/day3/task2/install -G Unix Makefiles
