@@ -8,6 +8,7 @@
 
 # modified environment variables
 export CMAKE_PREFIX_PATH="/home/mina/Desktop/AUCRobotics_ROSCourse/AUCRobotics_ROSCourse/day3/mina_ws/devel:$CMAKE_PREFIX_PATH"
+export LD_LIBRARY_PATH="/home/mina/Desktop/AUCRobotics_ROSCourse/AUCRobotics_ROSCourse/day3/mina_ws/devel/lib:$LD_LIBRARY_PATH"
 export PWD='/home/mina/Desktop/AUCRobotics_ROSCourse/AUCRobotics_ROSCourse/day3/mina_ws/build'
 export ROSLISP_PACKAGE_DIRECTORIES='/home/mina/Desktop/AUCRobotics_ROSCourse/AUCRobotics_ROSCourse/day3/mina_ws/devel/share/common-lisp'
 export ROS_PACKAGE_PATH="/home/mina/Desktop/AUCRobotics_ROSCourse/AUCRobotics_ROSCourse/day3/mina_ws/src:$ROS_PACKAGE_PATH"

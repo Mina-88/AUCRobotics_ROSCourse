@@ -1,0 +1,8 @@
+prefix=/home/mina/Desktop/AUCRobotics_ROSCourse/AUCRobotics_ROSCourse/day3/mina_ws/devel
+
+Name: minapkg
+Description: Description of minapkg
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
